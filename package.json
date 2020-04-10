@@ -10,15 +10,11 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:document-to-hex.helloWorld"
+		"*"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
-			{
-				"command": "document-to-hex.helloWorld",
-				"title": "Hello World"
-			}
 		]
 	},
 	"scripts": {
