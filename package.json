@@ -1,5 +1,11 @@
 {
+	"author": {
+		"name": "alminde"
+	},
 	"publisher": "alminde",
+	"repository": {
+		"url": "https://github.com/alminde7/vscode.document-to-hex"
+	},
 	"name": "document-to-hex",
 	"displayName": "Document-to-hex",
 	"description": "",
